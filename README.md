@@ -4,7 +4,7 @@
 A very basic web application with a chat based UI, written in JavaScript and designed with HTML and CSS with minimalistic design.
 
 <h2>Note</h2>
-login.html is the index file
+Login.html is the index file
 
 <h2>Screenshots</h2>
 <p align = "center"><img src = "screenshots/Screenshot1.png"/></p>
