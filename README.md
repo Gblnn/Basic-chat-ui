@@ -1,7 +1,7 @@
 # Basic-chat-ui
 
 <h2>About</h2>
-A very basic web application with a chat based UI, written in JavaScript and designed with HTML and CSS with minimalistic design.
+A very basic web application with a chat based UI, written in JavaScript and designed with HTML, CSS and JavaScript with minimalistic design.
 
 <h2>Note</h2>
 Login.html is the index file
