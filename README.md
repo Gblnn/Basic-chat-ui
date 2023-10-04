@@ -1,6 +1,6 @@
 # Basic-chat-ui
 
-<h2>About<h2>
+<h2>About</h2>
 A very basic web application with a chat based UI, written in JavaScript and designed with HTML and CSS with minimalistic design.
 
 <h2>Note</h2>
