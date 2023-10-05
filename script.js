@@ -59,6 +59,7 @@ function validate() {
       p.style.color = "white";
       p.style.padding = "10px";
       p.style.borderRadius = "5px";
+      p.style.display = "inline-block";
       p.style.margin = "0";
       p.style.maxWidth = "75%";
       document.getElementById("chat-body").appendChild(div);
