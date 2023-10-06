@@ -1,3 +1,6 @@
+document.onkeyup = enter;    
+function enter(e) {if (e.which == 13) emptycheck();}
+
 function validate() {
     var txt;
     if (confirm("Confirm Logout?")) {
