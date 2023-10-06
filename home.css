@@ -55,6 +55,7 @@ body {
 .chat-body {
   height: 400px;
   overflow-y: scroll;
+  color-scheme: dark;
   padding-right: 10px;
   font-family: Bahnschrift Light;
 
