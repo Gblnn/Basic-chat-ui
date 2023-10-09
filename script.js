@@ -117,7 +117,7 @@ function validate() {
 
       else{
         p.innerHTML = "I'm sorry I couldn't understand that. We are working to add a response for your prompt.";
-        report();
+        /*report();*/
       }
 
       document.getElementById("message-input").value = "";
